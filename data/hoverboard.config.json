@@ -62,24 +62,19 @@
   ],
   "social": [
     {
-      "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
-    },
-    {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "GDGWarsaw",
+      "url": "https://plus.google.com/+GdgWarszawaPl"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
+      "nickname": "GDGWarsaw",
+      "url": "https://www.facebook.com/gdgwarszawa/"
     },
     {
       "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "GDGWarsaw",
+      "url": "https://pl.linkedin.com/company/gdg-warszawa"
     }
   ],
   "location": {
