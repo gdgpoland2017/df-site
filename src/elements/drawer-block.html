@@ -41,7 +41,8 @@
 
       .location {
         display: block;
-        color: var(--dark-primary-color);
+        /*color: var(--dark-primary-color);*/
+        color: #273B4A;
       }
 
       .navigation {
@@ -78,7 +79,7 @@
 
     <paper-toolbar class="tall">
       <div class="top">
-        <iron-image class="logo" src="/images/logo-white.svg" sizing="contain"
+        <iron-image class="logo" src="/images/logo.svg" sizing="contain"
                     alt="{$ title $}"></iron-image>
       </div>
       <div class="bottom">
@@ -86,7 +87,7 @@
         <span class="location">{$ locationAddressShort $}</span>
       </div>
     </paper-toolbar>
-    <nav>
+    <!--<nav>
       <paper-menu
         class="navigation list"
         attr-for-selected="name"
@@ -106,7 +107,7 @@
           ></iron-icon>
         </a>
       </paper-menu>
-    </nav>
+    </nav>-->
 
   </template>
 
