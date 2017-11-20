@@ -7,8 +7,8 @@
     "dev": "UA-85002326-3"
   },
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv"
+    "name": "GDG GdgWarszawaPl",
+    "twitter": ""
   },
   "webapp": {
     "shortName": "DevFest",
@@ -46,6 +46,10 @@
     {
       "route": "team",
       "permalink": "/team/"
+    },
+    {
+      "route": "speakers",
+      "permalink": "/speakers/"
     }
   ],
   "social": [
@@ -67,22 +71,22 @@
   ],
   "location": {
     "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
+    "name": "PGE Narodowy",
+    "address": "aleja Poniatowskiego 1, 03-901 Warsaw, Poland",
+    "link": "https://www.facebook.com/PGE.Narodowy/",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 52.239499,
+      "longitude": 21.0435969,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 52.239499,
+      "longitude": 21.0435969
     },
     "images": [
-      "/images/backgrounds/location_1.jpg",
-      "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Stadion_Narodowy_w_Warszawie_20120422.jpg/1200px-Stadion_Narodowy_w_Warszawie_20120422.jpg",
+      "https://images.myguide-cdn.com/warsaw/companies/pge-narodowy-national-stadium/large/pge-narodowy-national-stadium-130451.jpg",
+      "https://footballtripper.com/wp-content/uploads/2014/11/national-stadium-poland-aerial.jpg"
     ]
   },
   "gallery": {
