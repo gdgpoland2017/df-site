@@ -1,0 +1,326 @@
+{
+  "partners" : [ {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/google.svg",
+      "name" : "Google",
+      "width" : 170
+    } ],
+    "title" : "General Partner"
+  }, {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/kwadrat.png",
+      "name" : "Kwadrat",
+      "width" : 170
+    }, {
+      "logoUrl" : "../images/logos/pjug.jpeg",
+      "name" : "Polish Java User Group",
+      "width" : 170
+    } ],
+    "title" : "Community Partners"
+  } ],
+  "schedule" : [ {
+    "date" : "2017-09-12",
+    "dateReadable" : "September 9",
+    "timeslots" : [ {
+      "endTime" : "10:00",
+      "sessions" : [ [ 132 ] ],
+      "startTime" : "09:00"
+    }, {
+      "endTime" : "10:15",
+      "sessions" : [ [ 136 ] ],
+      "startTime" : "10:00"
+    }, {
+      "endTime" : "11:00",
+      "sessions" : [ [ 139 ] ],
+      "startTime" : "10:15"
+    }, {
+      "endTime" : "11:40",
+      "sessions" : [ [ 103 ], [ 120 ], [ 109 ] ],
+      "startTime" : "11:00"
+    }, {
+      "endTime" : "12:30",
+      "sessions" : [ [ 129 ], [ 116 ], [ 109 ] ],
+      "startTime" : "11:50"
+    }, {
+      "endTime" : "14:00",
+      "sessions" : [ [ 133 ] ],
+      "startTime" : "12:30"
+    }, {
+      "endTime" : "14:40",
+      "sessions" : [ [ 101 ], [ 118 ], [ 107 ] ],
+      "startTime" : "14:00"
+    }, {
+      "endTime" : "15:30",
+      "sessions" : [ [ 140 ], [ 126 ], [ 107 ] ],
+      "startTime" : "14:50"
+    }, {
+      "endTime" : "16:00",
+      "sessions" : [ [ 134 ] ],
+      "startTime" : "15:30"
+    }, {
+      "endTime" : "16:40",
+      "sessions" : [ [ 105 ], [ 127 ], [ 119 ] ],
+      "startTime" : "16:00"
+    }, {
+      "endTime" : "17:30",
+      "sessions" : [ [ 112 ], [ 111 ], [ 119 ] ],
+      "startTime" : "16:50"
+    }, {
+      "endTime" : "18:20",
+      "sessions" : [ [ 106 ], [ 125 ], [ 119 ] ],
+      "startTime" : "17:40"
+    }, {
+      "endTime" : "22:30",
+      "sessions" : [ [ 137 ] ],
+      "startTime" : "18:30"
+    } ],
+    "tracks" : [ {
+      "title" : "Expo hall"
+    }, {
+      "title" : "Conference hall"
+    }, {
+      "title" : "Workshops hall"
+    } ]
+  } ],
+  "sessions" : {
+    "101" : {
+      "complexity" : "Beginner",
+      "description" : "",
+      "id" : 101,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 1 ],
+      "title" : ""
+    },
+    "102" : {
+      "complexity" : "Beginner",
+      "description" : "",
+      "id" : 102,
+      "language" : "English",
+      "speakers" : [ 2 ],
+      "title" : ""
+    }
+  },
+  "speakers" : [ null, {"bio":"Wojtek is a Developer Advocate at Google and works closely with the Android Studio team to provide outreach on new Studio and Tools releases and framework features. He enjoys looking for ways to make apps more usable, mostly through better development patterns and code optimizations.","featured":true,"id":1,"name":"Wojtek Kalicinski","photoUrl":"/images/people/wk.png","shortBio":"Wojtek is a Developer Advocate at Google and works closely with the Android Studio team to provide outreach on new Studio and Tools releases and framework features.","tags":["Mobile"]},
+{"bio":"Michał has been an Android developer for over 6 years, and is a Firebase heavy user. Michał has used Firebase in various mobile apps (from 1k users to 0.3m), won Google's award for best app in Europe with Firebase (Kanarek). He is the author of 12Hours, Pola, and the Kanarek apps. Currently, ex-serious startuper (Icelytics.io, Yawn.wtf) - currently Android Lead @ Bluesoft. Loves to speak publicly and share his knowladge - both in person as well on Medium/Github. Author of dozens of Android libraries and samples.","featured":true,"id":2,"name":"Michał Tajchert","photoUrl":"/images/people/mt.png","shortBio":"Michał has been an Android developer for over 6 years, and is a Firebase heavy user.","tags":["Mobile"]},
+{"bio":"Became a mobile developer after long run as a backend developer. Because of age, holding senior positions from the day one as an Android programmer. Serial hackathon winner, or at least contender ;-)","featured":true,"id":3,"name":"Aleksander Piotrowski","photoUrl":"/images/people/ap.png","shortBio":"Became a mobile developer after long run as a backend developer.","tags":["Mobile"]},
+{"bio":"Programmer with a five-year track record of building IT solutions for various sectors, passionate about new technologies and mobile app enthusiast. Last 3 years related with Middle East and works with mulicultural environemnt.","featured":true,"id":4,"name":"Krzysztof Jedynak","photoUrl":"/images/people/kj.png","shortBio":"Programmer with a five-year track record of building IT solutions for various sectors, passionate about new technologies and mobile app enthusiast.","tags":["Mobile"]},
+{"bio":"Wojtek is a generalist with a wide spectrum of interests. He’s core background is full-stack development and leading tech teams. He spent a decade coding in a variety of languages (mostly in JVM, Python, Node.js). He was leading teams of developers, designers and testers as a Head of Engineering at Polidea and CTO at Growbots. Wojtek was building many tech communities, e.g. Warsaw JUG, Mobile Warsaw, PyWaw Summit, Mobile Central Europe, Warsjawa and HackWAW. Currently, he is an Expert Software Engineer at Codility and a trainer at Bottega.","featured":true,"id":5,"name":"Wojtek Erbetowski","photoUrl":"/images/people/we.png","shortBio":"Wojtek is a generalist with a wide spectrum of interests. He’s core background is full-stack development and leading tech teams.","tags":["Backend, Cloud"]},
+{"bio":"Software engineer based in Warsaw. Making a living as startups and product builder for more than five years.","featured":true,"id":6,"name":"Tomasz Netczuk","photoUrl":"/images/people/tn.png","shortBio":"Software engineer based in Warsaw. Making a living as startups and product builder for more than five years.","tags":["Web"]},
+{"bio":"Lived with computers since he was 2yo playing flight sims on 286, used Linux since 1999. An Anachronistic Sysadmin, who loves to work with very new and play with very old hardware and software and apply lessons from both. Currently focusing on containers and warehouse-scale computers.","featured":true,"id":7,"name":"Paweł Lasek","photoUrl":"/images/people/pla.png","shortBio":"Lived with computers since he was 2yo playing flight sims on 286, used Linux since 1999.","tags":["Backend, Cloud"]},
+{"bio":"Passionate about traveling and also to share his adventures with Web Technologies and Firebase. As a Google Developer Expert, he’s helping communities all over the world to learn, discover and have fun.","featured":true,"id":8,"name":"Juarez Filho","photoUrl":"/images/people/jf.png","shortBio":"Passionate about traveling and also to share his adventures with Web Technologies and Firebase.","tags":["Web"]},
+{"bio":"TBA ","featured":true,"id":9,"name":"Rafał Ruciński","photoUrl":"/images/people/rr.png","shortBio":"TBA ","tags":["Web"]},
+{"bio":"Chris is a Virtual and Augmented Reality enthusiast and evangelist, working as an expert in those technologies at Polidea. Since he brings HTC Vive and Daydream to every family reunion, even his grandma fell in love with VR. He is also a co-organiser of GDG VR Warszawa meetup, which gathers community and innovators interested in VR and AR technologies.  In the past, he gained business experience co-founding tech startups, like Gripit, VelociCaptor or Immersive VR Speaking. He is a strong believer in lean methodologies for product creation. Over the past year, he has dedicated himself to the fields of Data Science and Mixed Realities, where he sees great business opportunities for the future. In his free time he is a dedicated climber.","featured":true,"id":10,"name":"Krzysztof Wróbel","photoUrl":"/images/people/kw.png","shortBio":"Chris is a Virtual and Augmented Reality enthusiast and evangelist, working as an expert in those technologies at Polidea.","tags":["VR/AR"]},
+{"bio":"VR social specialist and VR360 film producer. Founder of Virtual Dream foundation. With the help of technology and virtual reality he fulfills the dreams of kids in oncology clinics, hospices and child care institutions. Promoter and seeker of the potential of new technologies and their usefulness to people. In his presentations he tries to speak about the two sides of the coin – how best to use virtual worlds, but also the risks of escaping too far from the real world.","featured":true,"id":11,"name":"Piotr Łój","photoUrl":"/images/people/pl.png","shortBio":"VR social specialist and VR360 film producer. Founder of Virtual Dream foundation.","tags":["VR/AR"]},
+{"bio":"Biz Dev Manager and VR Consultant who's worked on many VR projects, in which he's been involved in both creative and organizational aspects of the development. Devoted to researching VR best practices and taking the most of VR technology. Public speaker sharing Carbon's knowledge and experience in VR games development.","featured":true,"id":12,"name":"Paweł Gajda","photoUrl":"/images/people/pg.png","shortBio":"Biz Dev Manager and VR Consultant who's worked on many VR projects, in which he's been involved in both creative and organizational aspects of the development.","tags":["VR/AR"]},
+{"bio":"Marek, Grzegorz and Mateusz are working together at madeinholo.com , one of the pioneer companies in Poland focused on Augmented Reality Business Solutions. It is a group of passionate developers and architects. ","featured":true,"id":13,"name":"Marek Czarzbon, Grzegorz Kiernozek, Mateusz Kaleciński","photoUrl":"/images/people/mc.png","shortBio":"Marek, Grzegorz and Mateusz are working together at madeinholo.com , one of the pioneer companies in Poland focused on Augmented Reality Business Solutions.","tags":["VR/AR"]},
+{"bio":"Andrzej is an HTML5 Game Developer and Mozilla Tech Speaker, Enclave Games indie studio founder, js13kGames competition creator and Gamedev.js Weekly newsletter publisher. He started Gamedev.js meetups in Poland, is passionate about new, Open Web technologies, and excited about WebVR with A-Frame. He likes eating sushi and playing Neuroshima Hex.","featured":true,"id":14,"name":"Andrzej Mazur","photoUrl":"/images/people/am.png","shortBio":"Andrzej is an HTML5 Game Developer and Mozilla Tech Speaker, Enclave Games indie studio founder, js13kGames competition creator and Gamedev.js Weekly newsletter publisher.","tags":["VR/AR"]},
+{"bio":"Passionate about people and business. Huge fan of tribal theory in organisation management and a seasoned sales person. With over 5 years of sales management experience in tech industry and social enterprises, Maciej consult organisations and individuals on how to excel at business development efforts. ","featured":true,"id":15,"name":"Maciej Głowacki","photoUrl":"/images/people/mg.png","shortBio":"Passionate about people and business. Huge fan of tribal theory in organisation management and a seasoned sales person.","tags":["Business Development"]},
+{"bio":"Co-founder of Girls Code Fun, a foundation that teaches girls and women basic coding skills; as well as Kids Code Fun, a programming school for kids ages 5-16 in Warsaw and Poznań. Raised in New York, and educated in the field of Psychology, Karolina never dreamt she'd end up in the tech field- but has loved every second of it!","featured":true,"id":16,"name":"Karolina Cikowska","photoUrl":"/images/people/kc.png","shortBio":"Co-founder of Girls Code Fun, a foundation that teaches girls and women basic coding skills; as well as Kids Code Fun, a programming school for kids ages 5-16 in Warsaw and Poznań.","tags":["Educating the next generation of programmers."]},
+{"bio":"TBA ","featured":true,"id":17,"name":"Tomasz Wojda","photoUrl":"/images/people/tw.png","shortBio":"TBA ","tags":["google assistant"]},
+{"bio":"Rocznik 92’. Absolwent Politechniki Warszawskiej na kierunku Informatyka. W trakcie studiów dwukrotnie wziął udział w programie wymian. W trakcie studiów inżynierskich pół roku studiował na Technicznym Uniwersytecie Berlińskim, gdzie skonstruował swojego pierwszego drona oraz wypuścił pierwszą autorską grę na Androida. Zrealizował praktyki w międzynarodowej korporacji EY zajmując się bezpieczeństwem aplikacji mobilnych dla firm z branży finansowej, by ostatecznie utwierdzić się w przekonaniu, że chce rozwijać własną firmę. Rozpoczął realizację swojego pierwszego start-upu, która zakończyła się niepowodzeniem. Spędził pół roku na jednej z najlepszych uczelni technicznych w Europie TU Delft. Aktualnie od lekko ponad pół roku wraz z przyjacielem rozwija własny software house skupiający się na wspieraniu jako partner technologiczny młodych start-upów oraz realizujący własne projekty.","featured":true,"id":18,"name":"Paweł Stępień","photoUrl":"/images/people/ps.png","shortBio":"Rocznik 92’. Absolwent Politechniki Warszawskiej na kierunku Informatyka. W trakcie studiów dwukrotnie wziął udział w programie wymian.","tags":["Project Management, Startups"]},
+{"bio":"Full Stack Developer i jeden ze współzałożycieli BillTech, platformy do automatyzacji opłacania rachunków.","featured":true,"id":19,"name":"Michał Kaciuba","photoUrl":"/images/people/mk.png","shortBio":"Full Stack Developer i jeden ze współzałożycieli BillTech, platformy do automatyzacji opłacania rachunków.","tags":["Project Management, Startups"]},
+{"bio":"TBA ","featured":true,"id":20,"name":"Piotr Olesiński","photoUrl":"/images/people/po.png","shortBio":"TBA ","tags":["Project Management, Startups"]},
+{"bio":"TBA ","featured":true,"id":21,"name":"Piotr Trębacz","photoUrl":"/images/people/pt.png","shortBio":"TBA ","tags":["Coaching "]},
+{"bio":"Olga is a UX Designer at Wirtualna Polska Media S.A. She was previously involved in startup projects, now designs user experience of large websites. She loves to learn about new technologies as well as human behaviour, which she believes are inseparable. She likes to question the status quo and sometimes even tries to look for answers. Olga is a linguist passionate about communication and human-computer interaction.","featured":true,"id":22,"name":"Olga Jakubowska","photoUrl":"/images/people/oj.png","shortBio":"Olga is a UX Designer at Wirtualna Polska Media S.A. She was previously involved in startup projects, now designs user experience of large websites.","tags":["Design/UX"]},
+{"bio":"Adam got a technical education and 10+ years of experience of working in IT. 5+ years experience as a Product Manager and 7+ as a UX Designer. He also ran my own business – web agency and design consultancy. Adam got experience from working with clients all around the world conducting requirements gathering, systems analysis, and projects scoping. Last two years focused on assembling the design team. He successfully grows it from two to ten designers. Responsible for the efficient design process of collaboration between designers, developers, and PMs. Currently, focused on product and its success as a product owner. A big advocate for collaboration between tech, business, designers and actual customers.","featured":true,"id":23,"name":"Adam Jeziorski","photoUrl":"/images/people/aj.png","shortBio":"Adam got a technical education and 10+ years of experience of working in IT. 5+ years experience as a Product Manager and 7+ as a UX Designer.","tags":["Design/UX"]},
+{"bio":"Przemek is Senior User Experience Architect in Circle K, responsible for digital projects in Scandinavia, Baltic countries and Poland. The mix of technical and design experience allows him to create excellent User Experience for both B2C and B2B customers. Previously UX Designer in Sabre Airline Solutions, designing booking engines and airplane management software for e.g.: American Airlines, Etihad Airways and Air Canada. Co-founder and organizer of World Usability Days in Krakow. Aviation freak, traveler and geek. ","featured":true,"id":24,"name":"Przemyslaw Pawelek","photoUrl":"/images/people/pp.png","shortBio":"Przemek is Senior User Experience Architect in Circle K, responsible for digital projects in Scandinavia, Baltic countries and Poland.","tags":["Design/UX"]},
+{"bio":"Seb is leading Front-end & UX department in DXC Technology (previously HP/HPE). He works with large companies helping them to improve their digital customer experience. He runs Innovation Garage which helps to adapt new techs like AI, VR, IoT, Chatboots to the customers needs. He has been studying Computer Science and Networking + UX Design. ","featured":true,"id":25,"name":"Seb Gos","photoUrl":"/images/people/sg.png","shortBio":"Seb is leading Front-end & UX department in DXC Technology (previously HP/HPE). He works with large companies helping them to improve their digital customer experience.","tags":["Design/UX"]},
+{"bio":"UX designer with humanistic background. In everyday work seeks balance between users needs, business requirements and technological possibilities. Enjoys solving problems, learning new things and working with people. Believes that because of the fact that technology we create is a very powerful thing, the next big question is 'How to be good ancestors?'.","featured":true,"id":26,"name":"Magdalena Mips","photoUrl":"/images/people/pp.png","shortBio":"UX designer with humanistic background. In everyday work seeks balance between users needs, business requirements and technological possibilities.","tags":["Design/UX"]},
+{"bio":"Patryk oraz Rafał na co dzień pracują w branży technologiczej. Obydwaj są fascynatami technologii blockchain oraz świata kryptowalut. Pierwszy raz zetknęli się ze wspomnianym tematem na studiach parę lat temu. Urzeczeni możliwościami jakie oferuje technologia blockchain oraz kryptowalut postanowili objąć swą wiedzą pozostałe aspekty branży by w efekcie stworzyć jeden z najbardziej oglądanych kanałów popularno-naukowych o tej tematyce w Polsce - Krypto Raport. Każdą wolną chwilę wykorzystują na zgłębianie tajników tej technologii i chętnie się nią dzielą wśród swojej publiczności.","featured":true,"id":27,"name":"Rafał Leszek i Patryk Kempiński","photoUrl":"/images/people/rl.png","shortBio":"Patryk oraz Rafał na co dzień pracują w branży technologiczej. Obydwaj są fascynatami technologii blockchain oraz świata kryptowalut.","tags":["Machine Learning, Blockchain"]},
+{"bio":"Marek is blockchain engineer, evangelist and founder at Ethworks.","featured":true,"id":28,"name":"Marek Kirejczyk","photoUrl":"/images/people/mk.png","shortBio":"Marek is blockchain engineer, evangelist and founder at Ethworks.","tags":["Machine Learning, Blockchain"]},
+{"bio":"Software Developer with 10 years of experience in the market, mentor and programming teacher. GDG Rio de la Plata and WTM organizer, passionate about technology and education projects. Currently digital nomad, freelancer and mentor.","featured":true,"id":29,"name":"Laura Morinigo","photoUrl":"/images/people/lm.png","shortBio":"Software Developer with 10 years of experience in the market, mentor and programming teacher.","tags":["Machine Learning, Blockchain"]},
+{"bio":"AI / Machine Learning Architect at Plastream.net. Working on projects using deep learning for image and video analysis. Founder of ThinkAI (community for people interested in AI outcomes for society)  and Human Tech Art (meetings for people creating projects at the intersection of Humanities & Technology).","featured":true,"id":30,"name":"Lukasz Czarnecki","photoUrl":"/images/people/lc.png","shortBio":"AI / Machine Learning Architect at Plastream.net. Working on projects using deep learning for image and video analysis.","tags":["Machine Learning, Blockchain"]},
+{"bio":"Michal Brys is working in internet industry from 2009. He is an expert in the web analytics in the e-commerce&ad-tech context. He loves mining big data sets and discover hidden knowledge. He graduated AGH University of Science and Technology and University of Economics in Cracow.","featured":true,"id":31,"name":"Michal Brys","photoUrl":"/images/people/mb.png","shortBio":"Michal Brys is working in internet industry from 2009. He is an expert in the web analytics in the e-commerce&ad-tech context.","tags":["Machine Learning, Blockchain"]} ],
+  "team" : [ {
+    "members" : [ {
+      "name" : "Jakub Kołakowski",
+      "photoUrl" : "/images/people/jakub_kolakowski.jpg",
+      "title" : ""
+    }, {
+      "name" : "Piotr Olesiński",
+      "photoUrl" : "/images/people/piotr_olesinski.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "website",
+        "link" : "",
+        "name" : "Website"
+      } ],
+      "title" : ""
+    }, {
+      "name" : "Krzysztof Wróbel",
+      "photoUrl" : "/images/people/krzysztof_wrobel.jpg"
+    }, {
+      "name" : "Asia Krawczyk",
+      "photoUrl" : "/images/people/asia_krawczyk.jpg"
+    }, {
+      "name" : "Ruslan Khalilov",
+      "photoUrl" : "/images/people/ruslan_khalilov.jpg"
+    }, {
+      "name" : "Dominika Zaleska",
+      "photoUrl" : "/images/people/dominika_zaleska.jpg"
+    }, {
+      "name" : "Dariusz Kalbarczyk",
+      "photoUrl" : "/images/people/dariusz_kalbarczyk.jpg"
+    }, {
+      "name" : "Tomasz Wojda",
+      "photoUrl" : "/images/people/tomasz_wojda.jpg"
+    } ],
+    "title" : "Core Team"
+  } ],
+  "tickets" : {
+    "elements" : [ {
+      "currency" : "PLN",
+      "ends" : "Dec 9",
+      "info" : "",
+      "name" : "Normal",
+      "price" : 50,
+      "soldOut" : false,
+      "starts" : "Jul 1"
+    } ],
+    "url" : "https://df17pl.eventbrite.com/?aff=wwwdfpl"
+  },
+  "videos" : [ {
+    "speakers" : "Jakub Škvára",
+    "thumbnail" : "/images/sessions/116.JPG",
+    "title" : "Polymer vs other libraries",
+    "youtubeId" : "-UEURYYVCmg"
+  }, {
+    "speakers" : "Mandy Waite",
+    "thumbnail" : "/images/sessions/109.JPG",
+    "title" : "Scalable Microservices with gRPC, Kubernetes, and Containers",
+    "youtubeId" : "BZ-uR8LQRkA"
+  }, {
+    "speakers" : "Mandy Waite",
+    "thumbnail" : "/images/sessions/110.JPG",
+    "title" : "Google Cloud Platform End to End: How we built 'Cloud Spin'",
+    "youtubeId" : "n-H6jYnL32U"
+  }, {
+    "speakers" : "Mateusz Herych",
+    "thumbnail" : "/images/sessions/102.JPG",
+    "title" : "How can Android Backup break your app",
+    "youtubeId" : "89wvLLc25AY"
+  }, {
+    "speakers" : "Alex Pazhyn",
+    "thumbnail" : "/images/sessions/113.JPG",
+    "title" : "Material Design. Custom Branding",
+    "youtubeId" : "3u8864j4g24"
+  }, {
+    "speakers" : "Viktor Zozuliak",
+    "thumbnail" : "/images/sessions/122.JPG",
+    "title" : "Service Worker - Native Apps Experience For The Web",
+    "youtubeId" : "szLFi1aO398"
+  }, {
+    "speakers" : "Said Tahsin Dane",
+    "thumbnail" : "/images/sessions/101.JPG",
+    "title" : "Material Design on Custom Views",
+    "youtubeId" : "nFZxAIi8n7I"
+  }, {
+    "speakers" : "Ihor Dvoretskyi",
+    "thumbnail" : "/images/sessions/135.JPG",
+    "title" : "The Cloud Convergence: OpenStack and Kubernetes",
+    "youtubeId" : "3zbxUcyiP8Y"
+  }, {
+    "speakers" : "Juarez Filho",
+    "thumbnail" : "/images/sessions/120.JPG",
+    "title" : "Firebase Adventures - Real time platform for your apps",
+    "youtubeId" : "uz4vA21lqoE"
+  }, {
+    "speakers" : "Anton Minashkin",
+    "thumbnail" : "/images/sessions/134.JPG",
+    "title" : "Data Binding. Next big thing?",
+    "youtubeId" : "GYwvQ0YAPo4"
+  }, {
+    "speakers" : "Hallade Xavier",
+    "thumbnail" : "/images/sessions/112.JPG",
+    "title" : "Mastering the NDK with Android Studio 1.3+ and the gradle-experimental plugin",
+    "youtubeId" : "GbTe0BTuNaU"
+  }, {
+    "speakers" : "Jana Moudrá",
+    "thumbnail" : "/images/sessions/115.JPG",
+    "title" : "Let's play Dart!",
+    "youtubeId" : "DoUATBQcihI"
+  }, {
+    "speakers" : "Valentyn Shybanov",
+    "thumbnail" : "/images/sessions/106.JPG",
+    "title" : "Using GoLang for building micro-service architecture in Google Cloud Platform",
+    "youtubeId" : "euROYVOJYuI"
+  }, {
+    "speakers" : "Semih Yagcioglu",
+    "thumbnail" : "/images/sessions/124.JPG",
+    "title" : "Build Your Thing In a Weekend with AngularJS 2.0",
+    "youtubeId" : "gHd-0itPpGg"
+  }, {
+    "speakers" : "Dawid Ostrowski",
+    "thumbnail" : "/images/sessions/125.JPG",
+    "title" : "[Keynote] Lean Startup with Google",
+    "youtubeId" : "o04aL3IzmcQ"
+  }, {
+    "speakers" : "Constantine Mars",
+    "thumbnail" : "/images/sessions/133.JPG",
+    "title" : "RxJava for Android",
+    "youtubeId" : "3LQnqJhGQmI"
+  }, {
+    "speakers" : "Roman Mazur",
+    "thumbnail" : "/images/sessions/104.JPG",
+    "title" : "Power of Android Shell",
+    "youtubeId" : "a4InM2VhAvQ"
+  }, {
+    "speakers" : "Dmytro Danylyk",
+    "thumbnail" : "/images/sessions/103.JPG",
+    "title" : "Planning Android Screens",
+    "youtubeId" : "gQbjjOE2yF4"
+  }, {
+    "speakers" : "Dima Maleev",
+    "thumbnail" : "/images/sessions/108.JPG",
+    "title" : "V8 under the hood",
+    "youtubeId" : "Oazl4fx-X68"
+  }, {
+    "speakers" : "Kseniia Shumelchyk",
+    "thumbnail" : "/images/sessions/117.JPG",
+    "title" : "Bluetooth Low Energy and iBeacon development for Android",
+    "youtubeId" : "tEUmmZDwHDg"
+  }, {
+    "speakers" : "Maciej Górski",
+    "thumbnail" : "/images/sessions/114.JPG",
+    "title" : "Continuous Delivery with Ease",
+    "youtubeId" : "b-4upgkYdZo"
+  }, {
+    "speakers" : "Michał Tajchert",
+    "thumbnail" : "/images/sessions/105.JPG",
+    "title" : "Hijacking notification actions - lets respond to your messages!",
+    "youtubeId" : "2rT4Us7cFDg"
+  }, {
+    "speakers" : "Roman Herasymenko",
+    "thumbnail" : "/images/sessions/111.JPG",
+    "title" : "New security model in Marshmallow",
+    "youtubeId" : "lFpb-LaYDvs"
+  }, {
+    "speakers" : "Valentyn Shybanov",
+    "thumbnail" : "/images/sessions/107.JPG",
+    "title" : "Angular2: Reasoning behind technical decisions",
+    "youtubeId" : "V7GCjnfsOCE"
+  }, {
+    "speakers" : "",
+    "thumbnail" : "/images/sessions/140.JPG",
+    "title" : "Fireside Chat",
+    "youtubeId" : "8kXNWOhEAhE"
+  }, {
+    "speakers" : "Alexey Rybakov",
+    "thumbnail" : "/images/sessions/119.JPG",
+    "title" : "Android TV Development",
+    "youtubeId" : "SoXb9cXnJhc"
+  }, {
+    "speakers" : "Buşra Deniz",
+    "thumbnail" : "/images/sessions/123.JPG",
+    "title" : "Google WebRTC on Mobile",
+    "youtubeId" : "YWaOdwCenZM"
+  } ]
+}
