@@ -49,7 +49,7 @@
     },
     {
       "route": "agenda",
-      "permalink": "/agenda/"
+      "permalink": "/schedule/"
     },
     {
       "route": "speakers",

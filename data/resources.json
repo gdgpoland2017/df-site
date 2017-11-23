@@ -1,5 +1,5 @@
 {
-  "title": "GDG DevFest Season 2017",
+  "title": "GDG DevFest Poland 2017",
   "description": "The biggest tech conference organized by all GDGs in Poland! All about Android, Web and Cloud from the world experts",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "December 9, 2017",
@@ -66,6 +66,11 @@
         {
           "text": "Google Developers",
           "url": "https://developers.google.com/",
+          "newTab": true
+        },
+        {
+          "text": "Code of Conduct",
+          "url": "/cod/",
           "newTab": true
         }
       ]
